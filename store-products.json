@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Ferrari 488 Spider",
+    "description": "THE FERRARI 488 SPIDER IS THE LATEST CHAPTER IN MARANELLO’S ONGOING HISTORY OF OPEN-TOP V8 SPORTS CARS.",
+    "vtype": "2door convertible",
+    "price": "272,700",
+    "hp": 731,
+    "mpg": "12city/16 hwy",
+    "eng": "DOHC V-12",
+    "sec": "3.0",
+    "images": [
+      "images/ferrari-488-spider-06.jpg"
+
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Ferrari 488GTB",
+    "description": "The 488 GTB name marks a return to the classic Ferrari model designation with the 488 in its moniker indicating the engine's unitary displacement, while the GTB stands for Gran Turismo Berlinetta. ",
+    "vtype": "2door coupe",
+    "price": "245,400",
+    "hp": 660,
+    "mpg": "15city/25 hwy",
+    "eng": "Twin Turbo V-18",
+    "sec": "3.0",
+    "color": "#EEE",
+
+    "images": [
+      "images/Ferrari 488GTB.jpeg"
+
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Ferrari F12berlinetta",
+    "description": "The F12berlinetta is everything you could want from an Italian supercar.",
+    "vtype": "2door coupe",
+    "price": "319,995",
+    "hp": 731,
+    "mpg": "12city/16 hwy",
+    "eng": "DOHC 48valve V-12",
+    "sec": "2.8",
+    "color": "#000",
+
+    "images": [
+      "images/Ferrari F12berlinetta.jpg"
+
+    ],
+    "reviews": []
+  }
+]
